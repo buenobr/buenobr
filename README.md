@@ -1,6 +1,6 @@
 # Olá, sou Adrian Bueno 👋
 
-Sou um desenvolvedor mobile com foco em **Flutter** e uma paixão por aprendizado contínuo. Atualmente, estou me aprofundando em projetos que utilizam Flutter, mas também tenho experiência em outras tecnologias como **Python**, **Flutter**, **C++**, **HTML**, **CSS**, e **Firebase**.
+Sou um desenvolvedor mobile com foco em **Flutter** e uma paixão por aprendizado contínuo. Atualmente, estou me aprofundando em projetos que utilizam Flutter, mas também tenho experiência em outras tecnologias como  **Flutter**, **Python**, **C++**, **HTML**, **CSS**, e **Firebase**.
 
 ## Formação Acadêmica
 
